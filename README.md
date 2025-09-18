@@ -25,7 +25,7 @@
 - ポートフォリオ:
 
 - EchoFall - [https://unityroom.com/games/echofall] (06.2025)
-- 夢の響 (Dreamtide) - [作り中]
+- 夢の響 (Dreamtide) - [https://unityroom.com/games/dreamtide] (09.2025)
 - Parasomnia - [作り中]
 
 一緒に面白いゲームを作っていきましょう！
