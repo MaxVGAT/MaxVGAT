@@ -24,7 +24,7 @@
   
 - 夢の響 (Dreamtide) - [https://unityroom.com/games/dreamtide] (09.2025、個人制作) / [https://github.com/MaxVGAT/Dreamtide.git]
   
-- Parasomnia - [休止状態]
+- Parasomnia - [休止状態] (個人製作) / [https://github.com/MaxVGAT/Parasomnia.git]
 
 [ --- その他 --- ]
 - Unity Training: 30 projects (small to big) - [進行中] (個人制作) / [https://github.com/MaxVGAT/UnityTraining.git]
