@@ -11,22 +11,23 @@
 
 ## 🛠 現在取り組んでいること
 
-- 🎓 [専門学校でゲーム開発を学習中]
+- 🎓 [バンタンゲームアカデミー専門学校でゲーム開発を学習中]
 - 🧠 [C#を学習中]
 - 💼 [ゲーム業界でのキャリアスタートを目指して準備中]
 
-## 📂 主なリポジトリ
+## 📂 主なリポジトリ / ポートフォリオ
 
-- 🔧 []
-- 🎮 []
+[ --- ゲーム --- ]
+- LaserNexus - [https://unityroom.com/games/laser_nexus] (05.2025、 チーム制作, Main Menu + InGame UI) / [https://github.com/KEITOKOGA/20250522-23gamejam.git]
+  
+- EchoFall - [https://unityroom.com/games/echofall] (06.2025、個人制作) / [https://github.com/MaxVGAT/EchoFall.git]
+  
+- 夢の響 (Dreamtide) - [https://unityroom.com/games/dreamtide] (09.2025、個人制作) / [https://github.com/MaxVGAT/Dreamtide.git]
+  
+- Parasomnia - [休止状態]
 
-## 📫 連絡方法
-
-- ポートフォリオ:
-
-- EchoFall - [https://unityroom.com/games/echofall] (06.2025)
-- 夢の響 (Dreamtide) - [https://unityroom.com/games/dreamtide] (09.2025)
-- Parasomnia - [作り中]
+[ --- その他 --- ]
+- Unity Training: 30 projects (small to big) - [進行中] (個人制作) / [https://github.com/MaxVGAT/UnityTraining.git]
 
 一緒に面白いゲームを作っていきましょう！
 <!---
