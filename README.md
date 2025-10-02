@@ -30,6 +30,12 @@
 - Unity Training: 30 projects (small to big) - [進行中] (個人制作) / [https://github.com/MaxVGAT/UnityTraining.git]
 
 一緒に面白いゲームを作っていきましょう！
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxVGAT&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxVGAT&layout=compact&theme=tokyonight)
 <!---
 FlabbyRoastedDuck/FlabbyRoastedDuck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
